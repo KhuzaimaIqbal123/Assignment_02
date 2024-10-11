@@ -2,9 +2,9 @@ import React from "react";
 
 const C1 = () => {
     return(
-    <div class="navbardiv"> 
-    <nav >
-    <h3>Component: 1</h3>
+    <div class="navbardiv C1"> 
+        <nav >
+        <h3>Component: 1</h3>
           <div >
               <a class="sidebar-brand">
         <span class="align-middle">AdminKit</span>
@@ -109,7 +109,7 @@ const C1 = () => {
               </div>
           </div>
       </nav>
-  </div>
+    </div>
     )
 }
 export default C1;
