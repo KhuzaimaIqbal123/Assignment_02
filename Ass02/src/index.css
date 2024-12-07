@@ -53,7 +53,7 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 
 }
-.C1,.C2{
+.C1,.C2,.C4{
   background-color: rgb(71, 52, 59);
 
 }
