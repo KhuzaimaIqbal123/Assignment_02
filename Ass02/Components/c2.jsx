@@ -32,4 +32,4 @@ const C2 = () =>{
    
     )
 };
-export  default C2;  //exporting the component
+export  default C2;  
