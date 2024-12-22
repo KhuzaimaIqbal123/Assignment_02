@@ -1,34 +1,36 @@
 import React from "react";
-import C1 from "../Components/c1";
-import C2 from "../Components/c2";
-import C4 from "../Components/c4";
-import C5 from "../Components/c5";
-import C6 from "../Components/c6";
-import C7 from "../Components/c7";
-import C8 from "../Components/c8";
-import C9 from "../Components/c9";
-import C10 from "../Components/c10";
-
-const App = () =>{
+import Header from "./components/Header";
+import HeroSection from "./components/HeroSection";
+import AboutSection from "./components/AboutSection";
+import WhyUsSection from "./components/WhyUsSection";
+import StatsSection from "./components/StatsSection";
+import MenuSection from "./components/MenuSection";
+import TestimonialsSection from "./components/TestimonialsSection";
+import EventsSection from "./components/EventsSection";
+import ChefsSection from "./components/ChefSection";
+import ContactSection from "./components/ContactSection";
+import Footer from "./components/Footer";
+import Gallery from "./components/GallerySection";
+import "../src/assets/css/main.css";
+function App() {
   return (
-   <div>
-	<C1 />
-	<C2 />
-  {/* <C3/> */}
-  <C4/>
-  <C5/>
-  <C5/>
-  <C6/>
-  <C7/>
-  <C8/>
-  <C9/>
-  <C10/>
-
-
-	</div>
-
-    
-  )
+    <div className="App">
+      <Header />
+      <main>
+        <HeroSection />
+        <AboutSection />
+        <WhyUsSection />
+        <StatsSection />
+        <MenuSection />
+        <TestimonialsSection />
+        <EventsSection />
+        <ChefsSection />
+        <Gallery/>
+        <ContactSection />
+      </main>
+      <Footer />
+    </div>
+  );
 }
 
 export default App;
