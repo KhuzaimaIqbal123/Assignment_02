@@ -1,5 +1,5 @@
 import React from "react";
-import imgstat from "../assets/img/stats-bg.jpg"
+import imgstat from "../assests/img/stats-bg.jpg"
 
 const StatsSection = () => {
   return (

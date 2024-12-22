@@ -1,9 +1,9 @@
 import React, { useEffect } from "react";
-import "../assets/css/event.css"
-import img1 from "../assets/img/events-1.jpg";
-import img4 from "../assets/img/events-4.jpg"
-import img3 from "../assets/img/events-3.jpg"
-import img2 from "../assets/img/events-2.jpg"
+import "../assests/css/event.css"
+import img1 from "../assests/img/events-1.jpg";
+import img4 from "../assests/img/events-4.jpg"
+import img3 from "../assests/img/events-3.jpg"
+import img2 from "../assests/img/events-2.jpg"
 
 
 

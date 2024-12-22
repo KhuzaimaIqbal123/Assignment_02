@@ -1,17 +1,18 @@
 import React from "react";
-import Header from "./components/Header";
-import HeroSection from "./components/HeroSection";
-import AboutSection from "./components/AboutSection";
-import WhyUsSection from "./components/WhyUsSection";
-import StatsSection from "./components/StatsSection";
-import MenuSection from "./components/MenuSection";
-import TestimonialsSection from "./components/TestimonialsSection";
-import EventsSection from "./components/EventsSection";
-import ChefsSection from "./components/ChefSection";
-import ContactSection from "./components/ContactSection";
-import Footer from "./components/Footer";
-import Gallery from "./components/GallerySection";
-import "../src/assets/css/main.css";
+import Header from './com/Header'
+import HeroSection from "./com/HeroSection";
+import AboutSection from "./com/AboutSection";
+import WhyUsSection from "./com/WhyUsSection";
+import StatsSection from "./com/StatsSection";
+import MenuSection from "./com/MenuSection";
+import TestimonialsSection from "./com/TestimonialsSection";
+import EventsSection from "./com/EventsSection";
+import ChefsSection from "./com/ChefSection";
+import ContactSection from "./com/ContactSection";
+import Footer from "./com/Footer";
+import Gallery from "./com/GallerySection";
+import '../src/assests/css/main.css'
+
 function App() {
   return (
     <div className="App">

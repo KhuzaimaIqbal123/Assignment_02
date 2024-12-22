@@ -1,10 +1,10 @@
 import React, { useState } from "react";
-import img1 from "../assets/img/menu/menu-item-1.png" 
-import img2 from "../assets/img/menu/menu-item-2.png" 
-import img3 from "../assets/img/menu/menu-item-3.png" 
-import img4 from "../assets/img/menu/menu-item-4.png" 
-import img5 from "../assets/img/menu/menu-item-5.png" 
-import img6 from "../assets/img/menu/menu-item-6.png" 
+import img1 from "../assests/img/menu/menu-item-1.png" 
+import img2 from "../assests/img/menu/menu-item-2.png" 
+import img3 from "../assests/img/menu/menu-item-3.png" 
+import img4 from "../assests/img/menu/menu-item-4.png" 
+import img5 from "../assests/img/menu/menu-item-5.png" 
+import img6 from "../assests/img/menu/menu-item-6.png" 
 
 
 const MenuSection = () => {
