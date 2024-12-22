@@ -79,7 +79,7 @@ const C1 = () => {
           </a>
                   </li>
 
-                  <li class="sidebar-header">
+                  <li className="sidebar-header">
                       Plugins & Addons
                   </li>
 
