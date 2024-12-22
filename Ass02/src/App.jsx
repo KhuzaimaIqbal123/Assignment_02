@@ -1,7 +1,6 @@
 import React from "react";
 import C1 from "../Components/c1";
 import C2 from "../Components/c2";
-// import C3 from "../Components/c3";
 import C4 from "../Components/c4";
 import C5 from "../Components/c5";
 import C6 from "../Components/c6";
