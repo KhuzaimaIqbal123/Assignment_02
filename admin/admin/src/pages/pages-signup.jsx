@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "../css/App.css"; 
-import "bootstrap/dist/css/bootstrap.min.css"; 
+// import "bootstrap/dist/css/bootstrap.min.css"; 
 
 function SignUp() {
   const [name, setName] = useState("");
